@@ -31,7 +31,7 @@
 - Languages: English, Hindi and 日本語
 ---
 
-### 🧰 Tech Toolbox
+### 🧰 Things i know
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,python,C++" />
