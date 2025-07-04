@@ -1,32 +1,48 @@
-<h1 align="center">Konbanwa~ I'm Yozora 🌙</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Konbanwa~+I'm+Yash" />
+</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JtY3d3ZnljY2dxZDFwMXd5cHp6aWRsYjZoZWVwaTk2ZzI2ZW83diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YlM1aNs01ehJwc/giphy.gif" width="200"/>
+  <img src="https://count.getloli.com/get/@Yozora13?theme=moebooru">
 </p>
 
 <p align="center">
-  🧃 VS Code warrior • ☁️ Dreaming in JavaScript • 🌌 Anime addict <br/>
-  Currently building cool stuff like <strong>anime-themed Chrome extensions</strong> and <strong>emulators</strong> 🎮
+  Currently building cool stuff 🎮
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yozora13/Yozora13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yozora13/Yozora13/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yozora13/Yozora13/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
 
 ---
 
 ### 🧠 About Me
+- Name: **Yash Srivastava** / **ヤシュ・スリヴァスタヴァ**
 
-- 🛠 Currently working on: **Game Boy Emulator** & **Anime Wallpaper Chrome Extension**
-- 🎨 Favorite stack: `HTML` `CSS` `JS` `React` `Node.js`
-- ⚔️ Fun fact: I probably have more anime wallpapers than actual files on my desktop.
+- Residing in: **India**
 
+- Field of Study: Computer Science
+
+- Proficient in: **GNU/Linux**
+
+- Skilled in: `HTML` `CSS` `JS` `C++` `java` `C#` `C` `python` 
+
+- Languages: English, Hindi and 日本語
 ---
 
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,python,C++" />
 </p>
 
 ---
 
-### 📈 GitHub Stats (Flex incoming 💪)
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yozora13&show_icons=true&theme=tokyonight" />
@@ -37,12 +53,21 @@
 ---
 
 ### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Yozora13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p>- ⚔️ Note: I am most active on Discord or twitter.
 </p>
+<p align="center">
+
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
